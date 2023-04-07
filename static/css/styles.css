@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana,Tahoma, sans-serif;
+    text-align: center;
+    font-size: larger;
+    background-image: url('../images/malaria.jpg');
+    background-repeat: no-repeat;
+    background-attachment :fixed;
+    background-size: cover;
+}
+table{
+background-color: #f2f2f2;
+padding:20px;
+border-radius:6px;
+}
+td
+{
+padding:5px;
+}
+#submit
+{
+background-color:#52abf3;
+border:10px;
+width:100%;
+padding:15px 32px;
+}
+#submit:hover{
+background-color:#008bf9;
+}
+h1,p{
+background-color:#f2f2f2;
+padding:5px;
+border-radius:5px;
+width:90%;
+}
+
+input[type=number]{
+padding:8px 0px;
+border:1px solid #ccc;
+margin:8px 0px;
+border-radius:4px;
+}
+
